@@ -1,22 +1,112 @@
-# Hi, I'm Muhammad Hamza 👋
+<div align="center">
 
-MERN Stack Developer and BSIT graduate (Islamia University of Bahawalpur, 2026), based in Lahore, Pakistan.
+# 👋 Hello! I'm Muhammad Hamza
 
-## What I do
-Full-stack web development: RESTful APIs, JWT auth, MongoDB schema design, and responsive React UIs.
+## Full-Stack Web Developer | MERN Stack
+**Building responsive, secure, and scalable web applications**
 
-## Tech
-**Frontend:** React.js, JavaScript (ES6+), Tailwind CSS, Bootstrap, HTML5, CSS3
-**Backend:** Node.js, Express.js, REST APIs, JWT
-**Database:** MongoDB (Mongoose, Aggregation Pipelines)
-**Tools:** Git, GitHub, Postman, VS Code
+[
 
-## Featured projects
-- **AI Resume Analyzer** (MERN): [Live demo](https://resumeai-09.vercel.app)
-- **University Management System** (Laravel, Bootstrap): [Live demo](https://taci.edu.pk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+](https://reactjs.org/)
+[
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+](https://nodejs.org/)
+[
+
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+](https://expressjs.com/)
+[
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+](https://www.mongodb.com/)
+[
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+](https://tailwindcss.com/)
+[
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+](https://getbootstrap.com/)
+[
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+](https://git-scm.com/)
+[
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+](https://www.postman.com/)
+
+</div>
+
+---
+
+## About Me
+
+BSIT graduate (Islamia University of Bahawalpur, 2026) based in Lahore, Pakistan, specializing in **full-stack development with the MERN stack**. I design RESTful APIs, build modular React interfaces, and work in Git-based collaborative workflows.
+
+- **Specialization:** RESTful APIs, JWT authentication, and component-based UIs
+- **Commitment:** Responsive, mobile-first design
+- **Collaboration:** Agile practices, code reviews, Git/GitHub
+
+---
+
+## Tech Stack
+
+### Frontend
+| Technology | Focus Areas |
+| :--- | :--- |
+| **React.js** | Reusable components, Context API, hooks |
+| **JavaScript (ES6+)** | Async programming, modern syntax |
+| **Tailwind CSS / Bootstrap** | Responsive layouts, rapid UI development |
+| **HTML5 & CSS3** | Semantic markup, responsive web design |
+
+### Backend & Database
+| Technology | Focus Areas |
+| :--- | :--- |
+| **Node.js & Express.js** | REST API design, middleware architecture |
+| **JWT** | Authentication and authorization |
+| **MongoDB (Mongoose)** | Schema design, aggregation pipelines |
+
+### Tools
+Git · GitHub · Postman · NPM · VS Code
+
+---
+
+## Featured Projects
+
+| Project | Stack | Links |
+| :--- | :--- | :--- |
+| **AI Resume Analyzer**: full-stack AI-powered resume analysis app with secure auth and REST APIs | MongoDB, Express, React, Node.js | [Live Demo](https://resumeai-09.vercel.app) |
+| **University Management System**: course management, student activities, online assessments | Laravel, Bootstrap, JavaScript | [Live Demo](https://taci.edu.pk) |
+
+---
 
 ## Experience
-Junior Frontend Developer at TechLab360 (Mar 2026 – Sep 2026)
 
-## Connect
-[LinkedIn](your-linkedin-url) · [Portfolio](your-portfolio-url) · mohammadhamza.dev@gmail.com
+**Junior Frontend Developer, TechLab360** (Mar 2026 – Sep 2026)
+Built responsive UI components and integrated them with Laravel backend functionality for a University Management System.
+
+---
+
+## Let's Connect
+
+I'm actively seeking new opportunities and open to collaborating on projects.
+
+* **[LinkedIn](https://linkedin.com/in/muhammadhamza09)**
+* **[Portfolio](https://mohammadhamza.dev)**
+* **mohammadhamza.dev@gmail.com**
